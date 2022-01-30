@@ -1,0 +1,36 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Tamir Y. Dingjan
+tagline:          ''
+description:      'Finding the molecules of the future'
+url:              "https://tamir-dingjan.github.io"
+baseurl:          ""
+
+author:
+  name:           'Tamir Y. Dingjan'
+  twitter:        'tamirdingjan'
+  github:	  'tamir-dingjan'
+  gmail:	  'tamir.dingjan'
+  googleScholar:  'XPsiVGMAAAAJ&hl'
+  linkedin:	  'tamir-dingjan'
+  orcid:	  '0000-0001-5782-3161'
+  url:	 	  https://tamir-dingjan.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://tamir-dingjan.github.io
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - redcarpet
